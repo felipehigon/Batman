@@ -1,6 +1,6 @@
 # Equipo NOMBRE EQUIPO PENDIENTE
 - Francisco Jose Iniesta Cortijo
-- Oscar Mateos
+- Oscar Mateos Lopez
 - Felipe Higón Martínez
 # Batman
 Trabajo conjunto IA3 Programacion Orientada a Objetos
