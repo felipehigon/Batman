@@ -1,4 +1,4 @@
-# Equipo NOMBRE EQUIPO PENDIENTE
+# Equipo THE MACHINE'S LEARNING
 - Francisco Jose Iniesta Cortijo
 - Oscar Mateos Lopez
 - Felipe Higón Martínez
